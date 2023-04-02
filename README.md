@@ -83,6 +83,6 @@
     </tr>
     <table>
     <div align="center"  width="100%">
-        <img src="https://github-profile-trophy.vercel.app/?username=OlekSytn&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10">
+        <img src="https://github-profile-trophy.vercel.app/?username=LeonidasJay&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10">
     </div>
     <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
